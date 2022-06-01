@@ -1,0 +1,25 @@
+.main {
+  background-image: url("../public/img/background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+.banner {
+  position: relative;
+  text-align: center;
+}
+.model .title {
+  position: absolute;
+  bottom: 35%;
+  left: 45%;
+  width: 300px;
+}
+.title img {
+  position: absolute;
+  width: 100%;
+  right: 15%;
+  top: -250%;
+}
